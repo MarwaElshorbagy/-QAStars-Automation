@@ -1,2 +1,4 @@
 # -QAStars-Automation
- Automated Testing Framework for a Web Application An end-to-end test automation framework using Selenium, Postman, and JMeter. Covers UI, API, functional, and performance testing with Jira integration for test management and bug tracking. Generates detailed reports to ensure software quality and reliability. 
+أكيد! إليك Description بسيط واحترافي تقدر تضيفه على GitHub:
+
+> A complete QA testing project including Manual Testing (test cases, bug reports) and Automation Testing using Selenium for Swag Labs website. The project also includes API Testing with Postman and test management with Jira.
