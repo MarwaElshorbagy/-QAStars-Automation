@@ -12,7 +12,7 @@ This sheet includes:
 - High-Level Test Cases
 - Status of Each Test Case
 
-  🔗 API Testing with Postman
+  ## 🔗 API Testing with Postman
 We used Postman to test the Simple Books API. You can find our Postman collection through the link below:
 
 👉 API Postman Collection
