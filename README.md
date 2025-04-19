@@ -1,4 +1,4 @@
-# -Automated Testing Framework for a Web Application
+# Automated Testing Framework for a Web Application
 > A complete QA testing project including Manual Testing (test cases, bug reports) and Automation Testing using Selenium for Swag Labs website. The project also includes API Testing with Postman and test management with Jira.
 ## 📊 Manual Test Cases Documentation
 
@@ -12,7 +12,7 @@ This sheet includes:
 - High-Level Test Cases
 - Status of Each Test Case
 
-  ## 🔗 API Testing with Postman
+ ## 🔗 API Testing with Postman
 We used Postman to test the Simple Books API. You can find our Postman collection through the link below:
 
 👉 API Postman Collection
