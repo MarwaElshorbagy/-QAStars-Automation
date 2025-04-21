@@ -25,5 +25,33 @@ GET, POST, PATCH, DELETE requests
 
 Validations and test scripts
 
+#🤖 Automated UI Testing with Selenium – Swag Labs
+
+We implemented automated UI testing for the [Swag Labs website](https://www.saucedemo.com/) using **Selenium WebDriver** with **Java**.
+
+#🧰 Tools & Technologies Used:
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- IntelliJ IDEA
+
+#🎯 Key Test Scenarios Covered:
+- Login functionality (valid & invalid credentials)
+- Product sorting and filtering
+- Add to cart and remove items
+- Checkout process (step-by-step)
+- Logout functionality
+
+#📂 Test Structure:
+The automation framework follows the **Page Object Model (POM)** design pattern for better maintainability and readability.
+
+#📎 How to Run the Tests:
+1. Clone the repository.
+2. Open the project in IntelliJ IDEA.
+3. Make sure Maven dependencies are installed.
+4. Navigate to the `test` directory.
+5. Run the desired test class or suite using TestNG.
+
 
 
